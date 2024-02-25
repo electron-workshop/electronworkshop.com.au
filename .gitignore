@@ -23,3 +23,8 @@ null*
 
 # Do not include enviromental files as that may contain OpenAI key
 .env
+
+# static site
+book
+site
+venv

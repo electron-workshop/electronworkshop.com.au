@@ -1,0 +1,42 @@
+site_name: Electron Workshop
+site_url: http://electronworkshop.com.au
+theme:
+  name: material
+  logo: assets/Electron-Workshop-logo.png
+  custom_dir: docs/overrides
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.higlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    - header.autohide
+  language: en
+  palette:
+    scheme: slate
+    primary: white
+    accent: black
+extra_css:
+  - assets/css/customizations.css
+plugins:
+  - search
+  - literate-nav:
+      nav_file: SUMMARY.md
+  - ezlinks:
+      wikilinks: true
+  - blog:
+      post_excerpt: required
+      archive: true
+  - rss:
+      match_path: blog/posts/.* 
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags 
+  - tags
+
