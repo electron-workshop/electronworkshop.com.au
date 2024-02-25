@@ -3,5 +3,5 @@
 - [Home](index.md)
 - [About](about.md)
 - [Blog](/blog/)
-- [Blog](/concepts/)
+- [Concepts](/concepts/)
 
