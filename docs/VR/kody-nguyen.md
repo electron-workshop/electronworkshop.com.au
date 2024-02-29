@@ -20,13 +20,11 @@ Anh Nguyễn, professionally known as Kody A. Nguyen, is an avid hiker, photogra
 
 # Media Presence
 
-* Kody's review of Vision Pro and Quest Pro in a Vietnamese Youtube Channel 
-    - <https://www.youtube.com/watch?v=Yi35VJkAq50>
+* [Kody's review of Vision Pro and Quest Pro in a Vietnamese Youtube Channel](https://www.youtube.com/watch?v=Yi35VJkAq50)
 
-* Kody's Presentation at Melbourne Metaverse <!-- TODO: perhaps even cut it shorter, because this 15 min video also have intro and QA which you can cut out -->
-    - https://youtu.be/jRKUvDe4_Vo 
+* [Kody's Presentation at Melbourne Metaverse](https://youtu.be/jRKUvDe4_Vo) <!-- TODO: perhaps even cut it shorter, because this 15 min video also have intro and QA which you can cut out -->
 
-* Presented his work in [Melbourne Geek Night's Virtual Reality / Augmented Reality Show & Tell (Nov 25, 2019)](https://www.meetup.com/melbourne-geek-night/events/266430770) alongside with Nirma Madhoo a fashion filmmaker from [Studio Anatomy](anatomythestudio.com).
+* Presented his work in [Melbourne Geek Night's Virtual Reality / Augmented Reality Show & Tell (Nov 25, 2019)](https://www.meetup.com/melbourne-geek-night/events/266430770) alongside with Nirma Madhoo a fashion filmmaker from [Studio Anatomy](https://anatomythestudio.com).
 
 ----
 
