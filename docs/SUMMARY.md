@@ -1,7 +1,8 @@
 # Summary
 
-- [Home](index.md)
-- [About](about.md)
+- [Home](/)
+- [About](/about/)
 - [Blog](/blog/)
 - [Concepts](/concepts/)
+- [Concepts](/VR/)
 
