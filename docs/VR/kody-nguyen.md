@@ -4,7 +4,7 @@ Anh Nguyễn, professionally known as Kody A. Nguyen, is an avid hiker, photogra
 
 - **Effoma:** Founded by Kody Anh Nguyen as an official technology division and partnership for Meta. See how his company AR/VR projects is shaping the future of immersive technology: 
     - [Effoma's Animation](https://www.effoma.com/animation).
-    - [Meta Spark Partnership Directory Page Entry](https://spark.meta.com/programs/partners/effoma/)
+    - [Effoma's Meta Partner Page](https://spark.meta.com/programs/partners/effoma/).
 
 * **Vic Gov:** Worked with the victorian government to help develop and deploy VR solution to help educate the public on multiculturalism and shared values.
     - [Photo of Kody at Bendigo, during the deployment of VR truck for Vic Gov in 2017](https://photos.google.com/share/AF1QipOJN5i4cer5glIF0G1SUQdbcoUcfv_ZXHpS5XXohwszvPMKdFEWQmex6Ur8qjgeaQ?key=Q0FWZlFPbzJiTWlMbGxKLWU1VG5aUWFndWVLVFVB)
@@ -13,8 +13,6 @@ Anh Nguyễn, professionally known as Kody A. Nguyen, is an avid hiker, photogra
 - **LinkedIn Profile:** [Kody A. Nguyen](https://www.linkedin.com/in/akodyn/) - A comprehensive overview of Kody's professional journey and contributions to the AR/VR industry.
 
 - **IMDb Profile:** [Kody A. Nguyen](https://imdb.com/name/nm14273052) - Featuring Kody's recognized work in film and technology on an international platform.
-
-- **Meta Spark Partner Network:** Kody's partnership with Meta is a testament to his expertise and innovation in AR creation. For more about his business and projects: [Effoma's Meta Partner Page](https://spark.meta.com/programs/partners/effoma/).
 
 - **Melbourne Film Festival (2019) (WayBack Machine Web Archive):** Melbourne Film Festival credits Kody with this statement 'Special thanks to Emily Harridge and Kody Nguyen' as shown from the [archive for this link https://miff.com.au/vr](https://web.archive.org/web/20190821043553/https://miff.com.au/vr)
 
