@@ -1,29 +1,39 @@
 # Kody A. Nguyen
 
-**Technical Director, AR/VR Creator, and Innovator**
+Anh Nguyễn, professionally known as Kody A. Nguyen, is an avid hiker, photographer, and award-winning technical director. For more than ten years in tech and AR/VR industry, his work has earned him several prestigious film awards and technology award recognitions, including accolades from the Cinequest VR & Film Festival - Best Technology award in Silicon Valley, California; Tokyo Shorts Film Festival; Austin International Art Festival; Telstra + Microsoft hackathon and the Google + Deloitte Hackathon, to name a few. Engaging with Oculus DK1 since 2014, his career in the XR industry has involved deploying multiple AR/VR projects for the Victoria State Government in Australia and collaborating with the Melbourne International Film Festival on XR projects. He is an AR creator within the Meta Spark Partner Network, a network of professional AR creators closely associated with Meta. He is also a member of XR Crowd, a global community of XR professionals, and Immerse Australia, an association focused on immersive technologies.
 
-Kody A. Nguyen, a distinguished figure in the AR/VR industry, brings over a decade of experience and innovation to the realm of immersive technologies. With a robust background in technology and a passion for pushing the boundaries of AR and VR, Kody has established himself as a leader in the field, known for his creative solutions and impactful projects.
+- **Effoma:** Founded by Kody Anh Nguyen as an official technology division and partnership for Meta. See how his company AR/VR projects is shaping the future of immersive technology: 
+    - [Effoma's Animation](https://www.effoma.com/animation).
+    - [Meta Spark Partnership Directory Page Entry](https://spark.meta.com/programs/partners/effoma/)
 
-## Professional Background
+* **Vic Gov:** Worked with the victorian government to help develop and deploy VR solution to help educate the public on multiculturalism and shared values.
+    - [Photo of Kody at Bendigo, during the deployment of VR truck for Vic Gov in 2017](https://photos.google.com/share/AF1QipOJN5i4cer5glIF0G1SUQdbcoUcfv_ZXHpS5XXohwszvPMKdFEWQmex6Ur8qjgeaQ?key=Q0FWZlFPbzJiTWlMbGxKLWU1VG5aUWFndWVLVFVB)
+    - [Introducing Vicky (Vic Gov Newsletter)](https://www.premier.vic.gov.au/introducing-vicky/)
 
-- **Educational Foundation:** Kody's academic journey includes advanced degrees in science and technology, laying a strong foundation for his innovative work in AR and VR. His dedication to continuous learning and development is evident in his pursuit of a PhD focused on immersive technologies.
+- **LinkedIn Profile:** [Kody A. Nguyen](https://www.linkedin.com/in/akodyn/) - A comprehensive overview of Kody's professional journey and contributions to the AR/VR industry.
 
-- **Industry Experience:** Since engaging with Oculus DK1 in 2014, Kody has been at the forefront of the VR revolution, deploying multiple AR/VR projects that have significantly contributed to the Victoria State Government in Australia and collaborated with prestigious organizations like the Melbourne International Film Festival on groundbreaking XR projects.
+- **IMDb Profile:** [Kody A. Nguyen](https://imdb.com/name/nm14273052) - Featuring Kody's recognized work in film and technology on an international platform.
 
-## Achievements and Contributions
+- **Meta Spark Partner Network:** Kody's partnership with Meta is a testament to his expertise and innovation in AR creation. For more about his business and projects: [Effoma's Meta Partner Page](https://spark.meta.com/programs/partners/effoma/).
 
-- **Award-Winning Work:** Kody's contributions to the AR/VR industry have been recognized with several prestigious awards, including accolades from the Cinequest VR & Film Festival, Tokyo Shorts Film Festival, Austin International Art Festival, and notable hackathons sponsored by tech giants like Telstra, Microsoft, Google, and Deloitte.
+- **Melbourne Film Festival (2019) (WayBack Machine Web Archive):** Melbourne Film Festival credits Kody with this statement 'Special thanks to Emily Harridge and Kody Nguyen' as shown from the [archive for this link https://miff.com.au/vr](https://web.archive.org/web/20190821043553/https://miff.com.au/vr)
 
-- **Innovative Projects:** As a technical director, Kody has led numerous projects that leverage AR and VR to create immersive and engaging experiences. His work includes innovative applications of technology in education, entertainment, and professional development.
+----
 
-- **Professional Partnerships:** Kody is an official partner within the Meta Spark Partner Network, where he collaborates on AR projects. His business, Effoma, is recognized as a leading entity in the immersive tech space, showcasing Kody's ability to blend creative vision with strategic partnerships.
+# Media Presence
 
-## Public Speaking and Advocacy
+* Kody's review of Vision Pro and Quest Pro in a Vietnamese Youtube Channel 
+    - <https://www.youtube.com/watch?v=Yi35VJkAq50>
 
-- **Industry Leadership:** Kody is an active member of the VR community, sharing his expertise through public speaking engagements, workshops, and online content. His efforts to educate and inspire others in the field are testament to his commitment to the growth and development of AR/VR technologies.
+* Kody's Presentation at Melbourne Metaverse <!-- TODO: perhaps even cut it shorter, because this 15 min video also have intro and QA which you can cut out -->
+    - https://youtu.be/jRKUvDe4_Vo 
 
-## Online Presence
+* Presented his work in [Melbourne Geek Night's Virtual Reality / Augmented Reality Show & Tell (Nov 25, 2019)](https://www.meetup.com/melbourne-geek-night/events/266430770) alongside with Nirma Madhoo a fashion filmmaker from [Studio Anatomy](anatomythestudio.com).
 
-- **LinkedIn:** [Kody A. Nguyen](https://www.linkedin.com/in/akodyn/) - For a comprehensive look at Kody's professional background, achievements, and contributions to the AR/VR industry.
+----
 
-- **IMDb:** [Kody A. Nguyen](https://imdb.com/name/nm14273052) - Highlighting Kody's contributions to film and technology, recognized at international levels.
+# Technical Showcase
+
+* [HouseVR AV7](https://www.youtube.com/watch?v=OAnqAIUxzN8)
+* [Green Screen Kod Winter](https://www.youtube.com/watch?v=Sl3SUJ7spQw)
+* [Car Showroom VR - Editor View](https://www.youtube.com/watch?feature=shared&v=iMCfbmrFfQI)
