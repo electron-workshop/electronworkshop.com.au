@@ -8,13 +8,12 @@ tags:
 - CRN
 - IT
 title: CRN Kickstarter Event 2024 Launch
-geo:
-  address: Sheraton Grand Hyde Park.
-    161 Elizabeth Street
-    Sydney NSW.
-  latitude: '-33.8715236'
-  longitude: '151.2072446'
+location:
   name: 'Sheraton Grand Hyde Park'
+  description: '5 Star Hotel used as a conference location'
+  address: Sheraton Grand Hyde Park. 161 Elizabeth Street Sydney NSW.
+  latitude: -33.8715236
+  longitude: 151.2072446
 ---
 
 > Ahead of each new financial year the CRN Kickstarter report flags strategic opportunities for IT and digital channel partners.
