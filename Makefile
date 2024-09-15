@@ -11,8 +11,8 @@ venv/touchfile: requirements.txt
 	touch venv/touchfile
 
 # Serve the book and open it in the default web browser
-serve: venv # Serve the book locally and automatically open it in the browser
-	xdg-open http://127.0.0.1:8000/
+serve: venv # Serve the book locally and automatically open it in the browse
+# xdg-open http://127.0.0.1:8001/
 	. venv/bin/activate; mkdocs serve
 
 # Build the book without serving
